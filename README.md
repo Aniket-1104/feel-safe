@@ -2,23 +2,28 @@
 # A Women Safety Application
 
 
-Women Safety App is user friendly application built in Android Studio,
-it is simple to implement,easy to understand.
+FeelSafe is an Android-based mobile application designed to enhance women’s safety by enabling quick and discreet emergency alerts. The app empowers users to instantly notify their guardians or emergency contacts during unsafe situations — simply by shaking their device.
+
+How It Works:
+Once the device detects a shake gesture, the app automatically sends an emergency SMS notification containing the user’s real-time location (via GPS) to their pre-registered contacts. This ensures rapid response and assistance, even when the user is unable to make a call or manually send a message.
+
+Key Features:
+
+🚨 Emergency Trigger: Alerts guardians instantly through device shake detection.
+
+📍 Location Sharing: Sends precise live GPS coordinates via SMS to emergency contacts.
+
+📱 User-Friendly Interface: Simple and intuitive design built using XML layouts for smooth navigation.
+
+⚙️ Reliable Background Service: Works even when the app is minimized or locked, ensuring constant protection.
+
+🧭 Real-Time Safety: Ensures prompt communication during critical moments.
+
+Tech Stack: Java | XML | Android SDK | Google Location Services
 
 
 <img src="media/womenSafety.png" />
 
-
-
-
-
-## Features
-
-- Easy to implement
-- Easy to understand
-- Shake detector
-- Shake device to send SOS to registered mobile
-- Sends Last Known Location to registered mobile
 
 #### Prerequisites :
 - Android Studio
